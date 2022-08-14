@@ -1,25 +1,19 @@
-### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I am Jo, having course of Backand Engineer :kr: Seoul, Republic of Korea 
+<h3 align="center"> Hi there I am Jo👋</h3>
 
-### About me
+<h3 align="center"> 💻 Tech Stack 💻</h3>
+<h4 align="center"> Techs that I've used at least once</h4>
 
-:four_leaf_clover: I’m currently learning Basic Programming skills like HTML, CSS and Javascript.<br/>
-<!-- :pencil: Sometimes I write articles on [Medium](https://medium.com/) <br/> <!-- Add a links-->
-📫 How to reach me: cine419@naver.com <br/>
-
-### Latest Projects
-[Getting ready](https://github.com/twghy)
-
-### Languages and Tools
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
 </p>
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+<h3 align="center"> 📫 How to reach me: ...</h3>
+<p align="center">
+  <a href="https://miro7923.github.io/"><img src="https://img.shields.io/badge/-TechBlog-brightgreen">&nbsp
+  <a href="mailto:miro7923@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
 </p>
+
