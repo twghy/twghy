@@ -13,7 +13,5 @@
 
 <h3 align="center"> 📫 How to reach me: ...</h3>
 <p align="center">
-  <a href="https://miro7923.github.io/"><img src="https://img.shields.io/badge/-TechBlog-brightgreen">&nbsp
-  <a href="mailto:miro7923@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
 </p>
 
